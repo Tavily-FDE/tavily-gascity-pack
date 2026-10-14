@@ -1,0 +1,3 @@
+name = "tavily"
+description = "Search the web and retrieve content with Tavily's remote MCP tools."
+url = "https://mcp.tavily.com/mcp/"
